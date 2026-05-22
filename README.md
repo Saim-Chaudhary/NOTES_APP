@@ -1,6 +1,6 @@
 # Notes App
 
-Simple MERN notes app with Express + MongoDB backend and React frontend.
+MERN notes app with Express + MongoDB backend and React frontend.
 
 
 ## Setup
