@@ -2,6 +2,11 @@
 
 MERN notes app with Express + MongoDB backend and React frontend.
 
+## Demo
+Use the link below to view or download.
+
+[Recording 2026-05-22 152209](Recording%202026-05-22%20152209.mp4)
+
 
 ## Setup
 1. Install backend dependencies:
