@@ -34,3 +34,40 @@ Simple MERN notes app with Express + MongoDB backend and React frontend.
    ```
 
 The frontend runs on the Vite dev server and calls the backend at http://localhost:5000.
+
+```
+NOTES-APP
+├─ backend
+│  ├─ config
+│  │  └─ db.js
+│  ├─ controllers
+│  │  └─ noteController.js
+│  ├─ models
+│  │  └─ Note.js
+│  ├─ package-lock.json
+│  ├─ package.json
+│  ├─ routes
+│  │  └─ noteRoutes.js
+│  └─ server.js
+├─ frontend
+│  ├─ eslint.config.js
+│  ├─ index.html
+│  ├─ package-lock.json
+│  ├─ package.json
+│  ├─ public
+│  │  ├─ favicon.svg
+│  │  └─ icons.svg
+│  ├─ README.md
+│  ├─ src
+│  │  ├─ App.css
+│  │  ├─ App.jsx
+│  │  ├─ assets
+│  │  │  ├─ hero.png
+│  │  │  ├─ react.svg
+│  │  │  └─ vite.svg
+│  │  ├─ index.css
+│  │  └─ main.jsx
+│  └─ vite.config.js
+└─ README.md
+
+```
